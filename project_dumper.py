@@ -10,6 +10,8 @@ DEFAULT_IGNORES = [
     "__pycache__",  # Кэш Python
     "*.pyc",  # Скомпилированные файлы Python
     "*.pyo",
+    "run_dumper.sh",
+    "run_dumper.py",
     ".git",  # Директория Git
     ".gitignore",
     ".idea",  # Настройки IDE (JetBrains)
